@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/9efguans9byeifhk/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ahj-homeworks-dom-in-memory-sorting/branch/main)
 
 
 ### In-Memory Sorting
