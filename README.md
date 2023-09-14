@@ -1,10 +1,9 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9efguans9byeifhk/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ahj-homeworks-dom-in-memory-sorting/branch/main)
-
-deployment: https://marinaustinovich.github.io/ahj-homeworks-dom-In-Memory-Sorting/
-
 
 ### In-Memory Sorting
 
+[![Build status](https://ci.appveyor.com/api/projects/status/9efguans9byeifhk/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ahj-homeworks-dom-in-memory-sorting/branch/main)
+
+deployment: https://marinaustinovich.github.io/ahj-homeworks-dom-In-Memory-Sorting/
 #### Легенда
 
 Хранить всю информацию в DOM и в атрибутах — не всегда лучшая идея, поэтому принято решение реализовать хранение в памяти.
@@ -51,15 +50,13 @@ deployment: https://marinaustinovich.github.io/ahj-homeworks-dom-In-Memory-Sorti
 
 Внешний вид без сортировки:
 
-![](./pic/loading.png)
+![](./src/img/loading.pngloading.png)
 
 Выводятся оценки всегда в одном виде - после точки два символа.
 
 При сортировке по id (по возрастанию):
 
-![](./pic/loading-2.png)
+![](./src/img/loading-2.png)
 
 Обратите внимание на стрелку возле id.
 
-
-Всё собирается через Webpack и выкладываться на GitHub Pages через CI.
